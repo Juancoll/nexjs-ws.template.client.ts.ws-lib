@@ -20,7 +20,7 @@
   "dependencies": {
     "@nexjs/wsclient": "^1.0.6",
     "uuid": "^7.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "socket.io-client": "^2.3.0",
     "strongly-typed-events": "^1.6.8"
